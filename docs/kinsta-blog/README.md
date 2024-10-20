@@ -1,4 +1,4 @@
-# GeekDoc PHP 译文集
+# Kinsta 博客中文翻译
 
 > 原文：[Kinsta Blog](https://kinsta.com/blog/)
 > 
