@@ -18,16 +18,16 @@
 ### Docker
 
 ```
-docker pull apachecn0/kinsta-blog-zh
-docker run -tid -p <port>:80 apachecn0/kinsta-blog-zh
+docker pull apachecn0/geekdoc-php-zh
+docker run -tid -p <port>:80 apachecn0/geekdoc-php-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g kinsta-blog-zh
-kinsta-blog-zh <port>
+npm install -g geekdoc-php-zh
+geekdoc-php-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
